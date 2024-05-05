@@ -18,3 +18,4 @@ res.sendFile(path.join(__dirname, './src/app/about/about.component.html'));
 app.listen(port, () => { 
     console.log(`Server is running on http://localhost:${port}`); 
     });
+snehal):
